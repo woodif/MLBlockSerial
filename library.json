@@ -1,0 +1,16 @@
+{
+  "name": "MLBlockSerial",
+  "title" : "MLBlock Serial",
+  "keywords": "mlblock,iot,ml,ai,machine learning",
+  "description": "A visual environment to make Machine Leaning easy and fun for beginners",
+  "homepage": "https://mlblock.org",
+  "license": "MIT",
+  "git": "https://github.com/MakerAsia/kbide-mlblock-serial",
+  "author": "Comdet Phueadphut",
+  "email": "comdet.p@gmail.com",
+  "url": "https://mlblock.org",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32","arduino-avr"],
+  "image" : "/static/logo.png"
+}
